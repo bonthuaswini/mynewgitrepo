@@ -1,0 +1,1 @@
+echo 'echo "Hello World"' > hello.sh
